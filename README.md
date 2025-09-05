@@ -1,3 +1,8 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/773/pica)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/773/pica)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/773/pica)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/773/pica)
+
 # Pica MCP Server
 
 [![npm version](https://img.shields.io/npm/v/%40picahq%2Fmcp)](https://npmjs.com/package/@picahq/mcp) [![smithery badge](https://smithery.ai/badge/@picahq/mcp)](https://smithery.ai/server/@picahq/mcp)
